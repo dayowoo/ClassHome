@@ -15,12 +15,17 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 ### Main Function
 
 #### Student App 
++ Login
++ Tutorial
++ Go to learning page (E학습터)
 + Live Chatting Program (teacher-student)
 + Check School Timetable
-+ Notice of study time
++ Announcement of 10 minutes of rest after 40 minutes of study
 + Writing a learning note
++ View recommended videos by subject by grade
 
 #### Teacher App
++ Login
 + Live Chatting Program (teacher-student)
 + Send a timetable to students
 + Check the time a student has studied
