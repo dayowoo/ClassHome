@@ -17,6 +17,8 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 #### Student App 
 + Live Chatting Program (teacher-student)
 + Check School Timetable
++ Notice of study time
++ Writing a learning note
 
 #### Teacher App
 + Live Chatting Program (teacher-student)
