@@ -8,7 +8,7 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 
 ### Programmer
 [윤재훈](https://github.com/cat8747)</br>
-[박민도] (https://github.com/mindo04)
+[박민도](https://github.com/mindo04)
 
 -----------
 
