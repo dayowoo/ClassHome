@@ -18,7 +18,7 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 + Login
 + Tutorial
 + Go to learning page (E학습터)
-+ Live Chatting Program (teacher-student)
++ Live Chatting Program (teacher-students)
 + Check School Timetable
 + Announcement of 10 minutes of rest after 40 minutes of study
 + Writing a learning note
