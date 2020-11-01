@@ -24,3 +24,4 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 + Live Chatting Program (teacher-student)
 + Send a timetable to students
 + Check the time a student has studied
++ Checking attendance of students
