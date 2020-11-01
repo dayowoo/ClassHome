@@ -9,5 +9,14 @@ Classroom '교실'이라는 단어에 room 대신 Home을 붙여 '집안의 교�
 ### Tool
 + Kodualr
 + Firebase
-  
- 
+
+### Main Function
+
+#### Student App 
++ Live Chatting Program (teacher-student)
++ Check School Timetable
+
+#### Teacher App
++ Live Chatting Program (teacher-student)
++ Send a timetable to students
++ Check the time a student has studied
